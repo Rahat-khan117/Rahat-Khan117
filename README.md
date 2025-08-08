@@ -1,7 +1,7 @@
 <!-- Banner Image -->
-<img src="https://your-banner-url.com/banner.png" alt="Banner" />
+<img src="https://i.ibb.co.com/QvLDjVhK/github-banner.jpg" alt="Banner" />
 
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi , I'm Rahat Khan</h1>
 <h3 align="center">💻 Full Stack Developer</h3>
 
 ---
@@ -17,7 +17,7 @@ Currently exploring modern JavaScript frameworks and full-stack development.
 ## 🔭 Currently Working On
 
 - 🚀 Exploring **Next.js**
-- 🧳 Developing a **Tourism Website**
+- 🧳 Developing a **shoping website**
 - 🛠️ Learning advanced **TypeScript patterns**
 
 ---
