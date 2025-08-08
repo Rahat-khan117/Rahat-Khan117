@@ -1,5 +1,6 @@
-<!-- Banner Image -->
-<img src="https://i.ibb.co.com/QvLDjVhK/github-banner.jpg" alt="Banner" />
+<img class="banne" style="height: 65vh; width: 100vw;" src="https://i.ibb.co.com/QvLDjVhK/github-banner.jpg" alt="Banner" />
+
+
 
 <h1 align="center">Hi , I'm Rahat Khan</h1>
 <h3 align="center">💻 Full Stack Developer</h3>
