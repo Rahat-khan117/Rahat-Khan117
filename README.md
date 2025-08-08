@@ -2,16 +2,28 @@
 
 
 
-<h1 align="center">Hi , I'm Rahat Khan</h1>
+<h1 align="center" style="color: rgb(218, 49, 105);">Hi , I'm Rahat Khan</h1>
 <h3 align="center">💻 Full Stack Developer</h3>
 
 ---
 
+I'm a self-taught passionate FrontEnd developer from Bangladesh
+
 ## 🧑‍💼 About Me
 
-I’m a passionate developer focused on building modern, responsive, and scalable web applications.  
+- 💼 Fullstake web developer
+
+- ❤️ I love writing React Js, and building fun experiments on type-level
+
+  I’m a passionate developer focused on building modern, responsive, and scalable web applications.  
 I love clean code, creative problem-solving, and contributing to open source.  
-Currently exploring modern JavaScript frameworks and full-stack development.  
+Currently exploring modern JavaScript frameworks and full-stack development. 
+
+
+
+
+
+ 
 
 ---
 
@@ -55,17 +67,18 @@ Currently exploring modern JavaScript frameworks and full-stack development.
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+|  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
----
 
-## 🏆 Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
